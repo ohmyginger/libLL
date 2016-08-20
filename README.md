@@ -1,3 +1,3 @@
 # LIBLL
 
-A (hopefully) simple interface to simple linked lists.
+A (hopefully) simple interface to simple linked lists. (WIP)
